@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 #include <string>
+#include <raylib.h>
+
 namespace kris
 
 {
